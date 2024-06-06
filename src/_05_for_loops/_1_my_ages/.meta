@@ -1,0 +1,37 @@
+assignment: 05_for_loops
+dir: levels/Level0/Module1/src/_05_for_loops/_1_my_ages
+lesson: 05_for_loops
+level: Level0
+module: Module1
+oassignment: 1_my_ages
+opath: levels/Level0/Module1/src/_05_for_loops/_1_my_ages
+resources:
+- levels/Level0/Module1/src/_05_for_loops/_1_my_ages/.web/ages.jpeg
+text: '
+
+
+  # My Ages
+
+
+  <hr/>
+
+  <img src="./images/ages.jpeg"/>
+
+
+  ## Goal:
+
+
+  Practice using for loops!
+
+
+  ## Steps:
+
+
+  1. Using a for loop, print out all the ages you have been alive, up to your current
+  age.
+
+
+
+
+  '
+title: 05 For Loops
