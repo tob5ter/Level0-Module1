@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "badgers",
+            "request": "launch",
+            "mainClass": "_05_for_loops._2_badgers.badgers",
+            "projectName": "Level0-Module1_26c0ea06"
+        },
+        {
+            "type": "java",
             "name": "SecretMessageBox",
             "request": "launch",
             "mainClass": "_03_if_else._3_secret_message_box.SecretMessageBox",

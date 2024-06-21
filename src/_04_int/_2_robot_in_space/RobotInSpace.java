@@ -35,7 +35,34 @@ public class RobotInSpace extends KeyboardAdapter {
 		// each arrow key
 		System.out.println(keyPressed);
 		//JOptionPane.showMessageDialog(null,keyPressed);
+
 		// 3. If the up arrow is pressed, move the Robot up the screen.
+		if (keyPressed==38) {
+			rob.setAngle(0);
+			rob.move(4);
+			
+		} 
+		if (keyPressed==39) {
+			rob.setAngle(90);
+			rob.move(4);
+			
+		}
+		if (keyPressed==40) {
+			rob.setAngle(180);
+			rob.move(4);
+			
+		}
+		if (keyPressed==37) {
+			rob.setAngle(270);
+			rob.move(4);
+			
+		}
+
+		
+			
+		
+			
+		
 		
 			
 		
